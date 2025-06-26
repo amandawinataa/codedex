@@ -1,0 +1,8 @@
+# Write code below 💖
+# bmi
+weight = 38
+height = 1.53
+
+bmi = weight / (height**2)
+
+print(bmi)
