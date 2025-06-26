@@ -1,0 +1,8 @@
+# Write code below 💖
+#currency
+pesos = int(input("what do you left in pesos ="))
+soles = int(input("what do you left in soles ="))
+reais = int(input("what do you left in reais ="))
+
+total = pesos * 0.017 + soles * 0.27 + reais * 0.171
+print(total)
